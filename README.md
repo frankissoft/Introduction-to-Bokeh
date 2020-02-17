@@ -1,2 +1,3 @@
 # Introduction-to-Bokeh
-CS 5764 Project 1
+CS 5764 Information Visualization 
+Project 1
